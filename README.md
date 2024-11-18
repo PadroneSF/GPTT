@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/cWCpCOE.png)
+
 # Gradual Progression Tech Tree
 A KSP tech tree designed with 3 main goals:
 
