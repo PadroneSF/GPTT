@@ -1,6 +1,6 @@
 fout = []
 
-fin = open('GPTT.cfg', 'r')
+fin = open('GPTT_yonge.cfg', 'r')
 outf = open('zzzGPTT_base_parts.cfg', 'w')
 
 parts = ''

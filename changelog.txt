@@ -1,0 +1,22 @@
+0.2
+- Added mod support:
+	- Knes: Mostly works quite well with some good early rockets, but a few odd parts; overpowered rcs units placed in Electric Engine Concepts on the logic that we could imagine they're resistojets?
+	- Completely NonAgressive Rockets: Provides some good early rockets, though the command parts don't quite fit.
+- Fixes:
+	- Moved a number of NFT and RLA pod parts accidentally placed in the capsules line to avionics
+	- Switched Wind Power to depend on Power Storage rather than the reverse.
+- Balance:
+	- Shifted around some of the BDB Leo service module parts: those with crew capacity are moved into Orbital modules (as well as the Kane service module for now), the rest into Advanced RCS. Still not totally happy having USI life support recyclers available so early, but don't want to make them inaccessible at the point you're using the Leo capsule, might look into patching in a part upgrade for that.
+	- Moved the BDB TNSS-5BN power and comms section from Solar Power to Orbital Relays
+	- DMagic Soil Moisture Sensor moved to Solar System Relays, the experiment is just a free bonus now I suppose.
+	- DMagic Dynamic Albedo of Neutrons moved to Surface Geology, I did not notice it was a surface-only experiment.
+	- BDB Micro Goo Radiometer moved to Instrument Miniaturization
+	- BDB Radek-716 moved to Space Environment Research and MRNR-340 moved to Radiation Studies
+	- Lynx Drill moved to Resource Extraction
+	- BDB BE-SLR227 reflector moved to Gravimetry
+	- Halved the costs for Oceanic Exploration and Exooceanography given that they're both a bit part-bare so far.
+	
+	
+
+0.1
+- Initial Release
