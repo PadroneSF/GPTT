@@ -8,79 +8,88 @@ A KSP tech tree designed with 3 main goals:
 -	Give an RP-1-like feeling of early progression, advancing gradually from early sounding rockets to first satellites to crewed spaceflight, while still working with the actual gameplay balance rather than getting caught up in historical reenactment.
 
 Aside from start, the tree is created using completely new nodes, meaning that only supported mods will appear on the tree, though as a fallback option there is a Lost and Found node that should contain all unsupported parts. The supported mods list is recorded in the mods spreadsheet, but to start out with these mods are highly recommended to properly fill out the tree and play as intended:
-- Bluedog Design Bureau
-- USI Sounding Rockets
-- Near Future Technology collection
-- Far Future
-- Kerbal Atomics
-- Cryo Engines
-- Restock
-- Station Parts Expansion Redux
-- Heat Control
 - Airplane Plus
+- Bluedog Design Bureau
+- Cryo Engines
+- Far Future
+- Heat Control
+- Kerbal Atomics
+- Near Future Collection
+- Restock and Restock Plus
+- Station Parts Expansion Redux
 - USI-LS
+- USI Sounding Rockets
+
 
 These mods also integrate quite well with the tree:
-- Dmagic
-- SCANsat
+- Civilian Popuation Modernized
 - Coatl Aerospace Probes Plus
+- Deep Freeze
+- Dmagic
 - Feline Utility Rovers
+- Kerbal Planetary Base Systems
+- Malemute
+- Mk2 Expansion
+- MkIV Spaceplane System
+- OSE Workshop Reworked
+- Planetside Exploration Technologies MMSEV
+- SCANsat
+- Supplementary Electric Engines
 - System Heat
 - WaterDrinker
-- Deep Freeze
-- Mk2 Expansion
-- Supplementary Electric Engines
-- Kerbal Planetary Base Systems
-- MkIV Spaceplane System
-- Civilian Popuation Modernized
-- OSE Workshop Reworked
-- Malemute
-- Planetside Exploration Technologies MMSEV
+
 
 And these mods are also variously well supported:
-- TAC-LS
+- Artemis Construction Kit
+- Blueshift
+- Bon Voyage
+- Boring Crew Services
+- Breaking Ground
+- Buffalo 2
+- Bumblebee
+- Completely NonAggressive Rocketry
+- CryoEngines Extensions
+- Extraplanetary Launchpads
+- Firespitter
+- Fuji
+- GemstoneLV
+- Ground Construction
+- HullcamVDS Continued
+- Internal RCS
+- JX2 Antenna
+- KAS
+- Kerbal Foundries 2
+- Kerbal Reusability Expansion
+- KIS
+- Knes
+- Making History
+- Mk3 Stockalike Expansion
+- MKS
+- Mk-X
+- MOLE
+- NRAP
+- QuizTech Aero Pack Continued
+- Radial Heat Shields
+- Rational Resources
+- RealChute
+- Research Bodies
+- RLA Reborn
+- Sandcastle
+- Simple Adjustable Fairings
+- Smart Parts Continued
+- SpaceY Heavy Lifters
+- SSR Microsat
+- Sterling Systems
+- SXT Continued
+- TAC Life Support
 - Taerobee
 - Tantares
 - TantaresLV
-- TantaresSP
 - TantaresSAF
-- Rational Resources
-- GemstoneLV
-- JX2 Antenna
-- Simple Adjustable Fairings
-- HullcamVDS Continued
-- Tundra Exploration
-- Kerbal Reusability Expansion
-- SXT Continued
-- SpaceY Heavy Lifters
-- KIS
-- KAS
+- TantaresSP
 - Tarsier Space Technology
-- Research Bodies
-- Buffalo 2
-- MOLE
-- RealChute
-- QuizTech Aero Pack Continued
-- Mk3 Stockalike Expansion
-- Mk-X
-- RLA Reborn
-- SSR Microsat
-- Fuji
-- Bumblebee
+- Tundra Exploration
 - Universal Storage 2
-- Bon Voyage
-- Sterling Systems
-- Ground Construction
-- Extraplanetary Launchpads
-- Breaking Ground
-- Making History
-- MKS
-- Firespitter
-- Kerbal Foundries 2
-- Sandcastle
-- Knes
-- Completely NonAggressive Rockets
-- Boring Crew Services 
 
 Again, see the spreadsheet for links and details
 
