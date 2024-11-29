@@ -1,3 +1,18 @@
+0.2.4
+- Added mod support:
+	- Artemis Construction Kit
+	- Blushift: First to use the FTL tech
+	- CryoEngines Extension: crowds the end cryogenic engines techs a bit, but they fit well enough
+	- Internal RCS
+	- NRAP
+	- Radial Heat Shields: all just go in the heat shield tech
+	- Smart Parts Continued: mostly distributed in avionics
+- Fixes:
+	- Tracked down a lot of dual-mod compatibility parts (DMagic, US2, KPBS, KIS, KAS, TAC-LS)
+	- Tidied up node spacing a bit because the LFO line was bothering me
+	- Added patch for the WBI sas upgrades
+	- Moved the misplaced TS-37 separator
+
 0.2.3
 - Added mod support:
 	- Boring Crew Services: airbag placed in advanced parachutes for now, will need to consider a more general approach for balloons and inflatables eventually
