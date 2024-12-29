@@ -54,6 +54,7 @@ And these mods are also variously well supported:
 - Fuji
 - GemstoneLV
 - Ground Construction
+- HabTech2
 - HullcamVDS Continued
 - Internal RCS
 - JX2 Antenna
@@ -63,6 +64,8 @@ And these mods are also variously well supported:
 - KIS
 - Knes
 - Making History
+- Mechjeb2
+- Missing History
 - Mk3 Stockalike Expansion
 - MKS
 - Mk-X
@@ -88,6 +91,7 @@ And these mods are also variously well supported:
 - TantaresSAF
 - TantaresSP
 - Tarsier Space Technology
+- Throttle Controlled Avionics
 - Tundra Exploration
 - Universal Storage 2
 
