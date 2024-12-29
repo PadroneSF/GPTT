@@ -1,3 +1,21 @@
+0.2.5
+-Added mod support:
+	- Habtech 2: Doesn't work super well because it lacks much life support function and a lot of parts are essentially aesthetic, but distributed it as best I could.
+	- Missing History: May have to check again for upgrades or whatever
+	- Throttle Controlled Avionics: All in avionics, not certain how good the balance is
+- Balance:
+	- Shifted some of the BDB, SSPX, and MMSEV hab endcap and adapter parts to unlock earlier, Modular Station Parts is now more specifically dedicated to hubs, tubes, and airlocks.
+	- Swapped the regular and interplanetary BDB Hokulani wet workshops that I'd placed the wrong way round (interplanetary goes in agriculture)
+	- Moved the BDB SIB tank down to Large Tanks because it is indeed a tad inefficient for its size compared to other Saturn tanks
+	- Breaking Ground Experiment Control module moved back to EVA
+	- Moved BDB Banyan NTR into Nuclear Aerospike
+	- Reduced cost of Deep Space Astronomy given that there's not much in there so far
+	- Reduced FTL tech cost a bit
+- Fixes:
+	- Added patch for BDB contracts to fix tech requirements, a lot might not work great because of when science parts unlock but they will at least appear now
+	- Added mechjeb upgrades patch, should unlock functions through avionics
+	- Adjusted bonvoyage patch, all unlocks should be properly in avionics now
+
 0.2.4
 - Added mod support:
 	- Artemis Construction Kit
