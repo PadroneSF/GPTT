@@ -7,7 +7,7 @@ A KSP tech tree designed with 3 main goals:
 - Make tech progression a bit more “rational”, focusing on increased capabilities rather than arbitrary distinctions of size that inconvenience the player without substantially affecting what they can achieve.
 -	Give an RP-1-like feeling of early progression, advancing gradually from early sounding rockets to first satellites to crewed spaceflight, while still working with the actual gameplay balance rather than getting caught up in historical reenactment.
 
-Aside from start, the tree is created using completely new nodes, meaning that only supported mods will appear on the tree, though as a fallback option there is a Lost and Found node that should contain all unsupported parts. The supported mods list is recorded in the mods spreadsheet, but to start out with these mods are highly recommended to properly fill out the tree and play as intended:
+Aside from start, the tree is created using completely new nodes, meaning that only supported mods will appear on the tree, though as a fallback option there is a Lost and Found node that should contain all unsupported parts. The supported mods list is recorded in the mods spreadsheet and [here](https://docs.google.com/spreadsheets/d/1WkyJGPV0f5Y8t63Xq7FFZ4kE2LeNk-n0lTpThED6hso/edit?usp=sharing), but to start out with these mods are highly recommended to properly fill out the tree and play as intended:
 - Airplane Plus
 - Bluedog Design Bureau
 - Cryo Engines
