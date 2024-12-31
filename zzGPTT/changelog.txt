@@ -1,5 +1,25 @@
+0.3.0
+- Rework of several sections of the tree:
+	- Habitation and lab section extensively reworked and expanded, now more cleanly split into hab, inflatable/centrifuge, life support/agriculture, and lab lines
+	- Extended the Cryo branch with an extra lift/vac pair and generally reduced entry price
+	- Tied the parachute techs, EVA, and inflatables together and added a rigid airships tech (I'll figure out how to give it the proper rdicon later)
+	- General price tweaks
+		- Moderate increase of later midgame tech costs to somewhat counter the science return spike that comes with crewed landings
+		- Spiked universal docking cost just so you get a bit more time with the nice early BDB ports
+		- Should now be no tech costs equal to the R&D level limits in either stock or Buruaecracy, avoiding the slight UI bug that causes
+- Added mod support:
+	- Mk-33: Generally distributed across huge airframes, gigantic tanks, and huge construction. Tyrannosaur stuck in air-augmented rockets where it doesn't totally make sense but gives it a bit more unlock cost.
+	- X-20 Moroz: Mostly goes in supersonic flight
+	- Kerballoons: unlocked at start, upgrades in fabric techs
+	- Hooligan Labs: unlock in fabric techs and rigid airships
+	- Heisenberg Airship Parts: gets a rigid airship tech, though a lot of ancillary parts unlock in airframes and habs; may need to revisit if I ever do pathfinder
+- Other tweaks
+	- Moved some of the Gemini RCS moved back to first RCS tech, because even if they're a tad over-efficient for it I don't want to force people to study ahead just to get nice complete Gemini pods
+	- Slightly rearranged MMSEV wind turbines, tiny vertical turbine goes into first tech as a low-power but reliable option, big conventional turbine goes in second tech.
+	- Tracked down a few extra loose PBI and MKS parts
+
 0.2.5
--Added mod support:
+- Added mod support:
 	- Habtech 2: Doesn't work super well because it lacks much life support function and a lot of parts are essentially aesthetic, but distributed it as best I could.
 	- Missing History: May have to check again for upgrades or whatever
 	- Throttle Controlled Avionics: All in avionics, not certain how good the balance is
