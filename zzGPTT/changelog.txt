@@ -1,3 +1,34 @@
+0.3.1
+- Added mod support:
+	- Apoapsis Motors: a few more early kick motors
+	- B9 Aerospace: distributed mostly in airframes even if they have LFO, not the easiest fit but they're in there
+	- Commonwealth Rockets: some decent midgame engines
+	- Commonwealth Aeronautics: mostly in supersonic flight
+	- Coriolis Space Systems: centrifuges go in robotics, bit early but it's fine given they don't seem to have any life support function.
+	- Eisenhower Aeronautics: nice to have some more methalox
+	- Interkosmos: finally another exooceanography part
+	- KARE: good to fill out the nuke jet techs some more
+	- KODS: more methane
+	- Moldavite: seem to fit well enough, all the algae and bioreactors go in the last ag tech
+	- ORANGES
+	- Periapsis Motors
+	- Remotetech: placed the extra antennas, will need to look into upgrades another time
+	- Rocket Motor Menagerie: Mostly dumped in the end cryogenics techs, but some nice variety I suppose.
+	- Stockalike Mining Extension: Not certain if they work right, but added them all in and made an extra tech for mass drivers
+	- Tea Kettle RCS: go in advanced solid NTRs
+	- USI collection: all the ones I could find:
+		- ART: also uses the new mass driver tech
+		- Core: already in main MKS pack
+		- Exploration: a nice use of the ocean exploration tech
+		- FTT
+		- Konstruction: I think it's included in main MKS now but double-checked anyway
+		- Nuclear Rockets: includes another option for Nuclear Pulse Propulsion
+		- Survivability: might be redundant with exploration? idk
+		- Warp Drive: another option for the endgame FTL tech
+- Balance/tweaks:
+	- Moved 10m heat shield to Expanded Inflatable Habitats
+	- Shifted around a lot of node placement on the left side of the tree to make clearer branches (purely cosmetic)
+
 0.3.0
 - Rework of several sections of the tree:
 	- Habitation and lab section extensively reworked and expanded, now more cleanly split into hab, inflatable/centrifuge, life support/agriculture, and lab lines
