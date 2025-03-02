@@ -55,7 +55,7 @@ if len(parts) > 1:
     newline = '@PART['
     newline += parts
     outf.writelines([
-        newline[:-1] + ']:FINAL\n',
+        newline[:-1] + ']:LAST[zzGPTT]\n',
         '{\n',
         '   @TechRequired = ' + tech,
         '}\n',
