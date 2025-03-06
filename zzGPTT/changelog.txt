@@ -1,3 +1,14 @@
+0.3.2
+- Added mod support:
+	- FTL Drive Continued thanks to Jade-TheCat
+	- Engine Ignitor thanks to PXTSERYU
+	- Procedural Parts thanks to PXTSERYU (with some progression tweaks)
+	- RealAntennas thanks to PXTSERYU (may have to doublecheck this later because I know it has a funky system)
+- Fixes:
+	- Autostrut now unlocks in General Construction thanks to PXTSERYU
+	- Kerballoons upgrades fixed thanks to Spike8891
+	- Fixed supplementary electric engines patch to put cesium tanks in ion tree, not advanced air
+
 0.3.1
 - Added mod support:
 	- Apoapsis Motors: a few more early kick motors
